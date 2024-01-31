@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0927b6b8.css",
+    "main.js": "/static/js/main.20086f20.js",
+    "static/media/intro_pic.png": "/static/media/intro_pic.2bcabe30313b83aeb9ab.png",
+    "static/media/sbu_logo.png": "/static/media/sbu_logo.6434af85b2c64bd0f0ad.png",
+    "static/media/aws_image.png": "/static/media/aws_image.c3a8553d2aadc3f80df7.png",
+    "static/media/sql_image.png": "/static/media/sql_image.1881f32ef4e0ce53321d.png",
+    "static/media/suny_logo.png": "/static/media/suny_logo.496349db53108a7a11b9.png",
+    "static/media/ig_logo.webp": "/static/media/ig_logo.1d6d0317700c4f0c95b7.webp",
+    "static/media/tensorflow_image.png": "/static/media/tensorflow_image.778a7a53d41aad747234.png",
+    "static/media/react_image.png": "/static/media/react_image.1ce7b597e7ddb0fccde3.png",
+    "static/media/brookhaven_logo.png": "/static/media/brookhaven_logo.a190773edaa5c907d43e.png",
+    "static/media/quantum_computing_image.png": "/static/media/quantum_computing_image.6060246ce7e809e22dce.png",
+    "static/media/machine_learning_image.png": "/static/media/machine_learning_image.3833ddc5ea90581a7d78.png",
+    "static/media/java_image.png": "/static/media/java_image.66d5a4fef00821dfe115.png",
+    "static/media/dd_logo.png": "/static/media/dd_logo.d372249149c9f74f6f13.png",
+    "static/media/yt_logo.png": "/static/media/yt_logo.e9691e90ef4cfa6c9edb.png",
+    "static/media/linkedin_logo.png": "/static/media/linkedin_logo.df3f373c358bcfdd92bb.png",
+    "static/media/contact_image.png": "/static/media/contact_image.f22ead7acc25ebc99d44.png",
+    "static/media/github_image.png": "/static/media/github_image.6fdc80f1a5d385046460.png",
+    "static/media/python_image.png": "/static/media/python_image.520152d3e8020ee90d29.png",
+    "index.html": "/index.html",
+    "main.0927b6b8.css.map": "/static/css/main.0927b6b8.css.map",
+    "main.20086f20.js.map": "/static/js/main.20086f20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0927b6b8.css",
+    "static/js/main.20086f20.js"
+  ]
+}
