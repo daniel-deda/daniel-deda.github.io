@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.dd23fb0d.css",
-    "main.js": "/static/js/main.20086f20.js",
+    "main.js": "/static/js/main.12d05158.js",
     "static/media/intro_pic.png": "/static/media/intro_pic.2bcabe30313b83aeb9ab.png",
     "static/media/sbu_logo.png": "/static/media/sbu_logo.6434af85b2c64bd0f0ad.png",
     "static/media/aws_image.png": "/static/media/aws_image.c3a8553d2aadc3f80df7.png",
@@ -22,10 +22,10 @@
     "static/media/python_image.png": "/static/media/python_image.520152d3e8020ee90d29.png",
     "index.html": "/index.html",
     "main.dd23fb0d.css.map": "/static/css/main.dd23fb0d.css.map",
-    "main.20086f20.js.map": "/static/js/main.20086f20.js.map"
+    "main.12d05158.js.map": "/static/js/main.12d05158.js.map"
   },
   "entrypoints": [
     "static/css/main.dd23fb0d.css",
-    "static/js/main.20086f20.js"
+    "static/js/main.12d05158.js"
   ]
 }
